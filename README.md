@@ -2,6 +2,9 @@
 
 <img alt="points bar" align="right" height="36" src="../../blob/status/.github/activity-icons/points-bar.svg" />
 
+**Test**
+
+
 Starter lesson for assessing GitHub Classroom use.
 
 The goal of this assignment is to introduce learners to using GiHub Classroom assignments and to assess that learners have the necessary skill set to complete a classroom assignment.
