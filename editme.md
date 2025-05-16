@@ -1,3 +1,2 @@
-_Write a question for your teacher below._
-
+Hello Trevor, what is your favourite programming language?
 Q: 
